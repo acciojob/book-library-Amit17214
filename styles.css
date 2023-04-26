@@ -6,7 +6,7 @@
 
 .book-library{
 	margin-top:0px;
-	background-color:#ffffff;
+	background-color:rgb(255, 255, 255);
 /* 	padding:5px; */
 	
 }
@@ -17,7 +17,7 @@
 
 .author{
 	text-align:start;
-	color:#777777;
+	color:rgb(119, 119, 119);
 }
 h2{
 	text-align:start;
@@ -28,9 +28,14 @@ h2{
 	
 }
 
-.price-block{
+ div .price-block{
 	color:white;
-	background-color:#2ecc71;
+	background-color:rgb(46, 204, 113);
 	padding:10px;
 	border-radius:5px;
+}
+
+.book{
+    margin-top: 20px;
+    padding-bottom: 5px;
 }
